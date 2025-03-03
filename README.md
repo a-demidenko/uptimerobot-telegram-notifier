@@ -188,6 +188,7 @@ This project allows you to receive Uptime Robot notifications directly in your T
 - **Некорректное форматирование сообщений**: Убедитесь, что код воркера правильно обрабатывает формат email
 
 ---
+[worker.js](./src/worker.js)
 [worker.js](https://github.com/a-demidenko/uptimerobot-telegram-notifier/src/worker.js)
 ## Keywords / Ключевые слова
 
