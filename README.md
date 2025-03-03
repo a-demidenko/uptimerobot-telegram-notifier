@@ -4,7 +4,7 @@
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020)](https://workers.cloudflare.com/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-0088cc)](https://core.telegram.org/bots/api)
 
-*Read this in: [English](#english-version) | [Русский](#русская-версия)*
+*Read this in: [🇬🇧 English](#english-version) | [🇷🇺 Русский](#русская-версия)*
 
 ---
 
