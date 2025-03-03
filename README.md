@@ -5,7 +5,7 @@
 [![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-0088cc)](https://core.telegram.org/bots/api)
 
 *Read this in: [🇬🇧 English](#english-version) | [🇷🇺 Русский](#русская-версия)*
-[worker.js](./src/worker.js)
+
 
 ---
 
@@ -52,7 +52,7 @@ This project allows you to receive Uptime Robot notifications directly in your T
 
 #### 2. Setting up Cloudflare Worker
 
-1. Sign in to your [Cloudflare dashboard](https://dash.cloudflare.com/)
+1. Sign in to your [Cloudflare dashboard](https://dash.cloudflare.com/)                    
 2. Navigate to Workers & Pages
 3. Click "Create a Worker"
 4. Give your worker a name (e.g., `uptime-telegram-notifier`)
@@ -188,7 +188,7 @@ This project allows you to receive Uptime Robot notifications directly in your T
 - **Некорректное форматирование сообщений**: Убедитесь, что код воркера правильно обрабатывает формат email
 
 ---
-
+[worker.js](https://github.com/a-demidenko/uptimerobot-telegram-notifier/src/worker.js)
 ## Keywords / Ключевые слова
 
 Uptime Robot, Monitoring, Telegram Bot, Cloudflare Worker, Email Routing, Notifications, Service Status, Uptime Monitoring, Server Monitoring, Alert System, Мониторинг серверов, Уведомления о статусе, Оповещения в Telegram, Бот для мониторинга, Облачные воркеры, Маршрутизация почты
