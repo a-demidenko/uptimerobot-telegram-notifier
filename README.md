@@ -5,6 +5,7 @@
 [![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-0088cc)](https://core.telegram.org/bots/api)
 
 *Read this in: [🇬🇧 English](#english-version) | [🇷🇺 Русский](#русская-версия)*
+[worker.js](./src/worker.js)
 
 ---
 
