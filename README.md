@@ -56,7 +56,7 @@ This project allows you to receive Uptime Robot notifications directly in your T
 2. Navigate to Workers & Pages
 3. Click "Create a Worker"
 4. Give your worker a name (e.g., `uptime-telegram-notifier`)
-5. Replace the default code with the provided worker code
+5. Replace the default code with the provided worker code [worker.js](src/worker.js)
 6. Click "Save and Deploy"
 7. Go to the "Settings" tab of your worker
 8. Under "Variables", add the following secrets:
@@ -146,7 +146,7 @@ This project allows you to receive Uptime Robot notifications directly in your T
 2. Перейдите в раздел Workers & Pages
 3. Нажмите "Create a Worker"
 4. Дайте воркеру имя (например, `uptime-telegram-notifier`)
-5. Замените код по умолчанию предоставленным кодом воркера
+5. Замените код по умолчанию предоставленным кодом воркера [worker.js](src/worker.js)
 6. Нажмите "Save and Deploy"
 7. Перейдите на вкладку "Settings" вашего воркера
 8. В разделе "Variables" добавьте следующие секреты:
@@ -188,10 +188,7 @@ This project allows you to receive Uptime Robot notifications directly in your T
 - **Некорректное форматирование сообщений**: Убедитесь, что код воркера правильно обрабатывает формат email
 
 ---
-[worker.js](src/worker.js)
 
-
-[worker.js](https://github.com/a-demidenko/uptimerobot-telegram-notifier/src/worker.js)
 ## Keywords / Ключевые слова
 
 Uptime Robot, Monitoring, Telegram Bot, Cloudflare Worker, Email Routing, Notifications, Service Status, Uptime Monitoring, Server Monitoring, Alert System, Мониторинг серверов, Уведомления о статусе, Оповещения в Telegram, Бот для мониторинга, Облачные воркеры, Маршрутизация почты
