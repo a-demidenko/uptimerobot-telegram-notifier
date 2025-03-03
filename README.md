@@ -1,5 +1,4 @@
-# Uptime Robot telegram notifier  
-Уведомления в телеграм от Uptime Robot
+# Uptime Robot telegram notifier | Уведомления в телеграм от Uptime Robot
 
 [![Uptime Robot](https://img.shields.io/badge/Uptime%20Robot-Monitoring-32B90E)](https://uptimerobot.com/)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020)](https://workers.cloudflare.com/)
